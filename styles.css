@@ -1,8 +1,12 @@
 body{
-  background-color: black;
+  background: url(background.svg);
+  background-size: cover;
   color: ivory;
 }
 a{
   text-decoration: none;
   color: ivory;
+}
+address{
+  text-align: right;
 }
