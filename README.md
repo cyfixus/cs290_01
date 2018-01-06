@@ -1,1 +1,2 @@
-# cs290_01\n## week 1 assignment
+# cs290_01
+## week 1 assignment
