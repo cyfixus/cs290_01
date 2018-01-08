@@ -1,6 +1,8 @@
 body{
   background: url(background.svg);
-  background-size: cover;
+  background-size: 100vw 100vh;
+  background-position: fixed;
+  background-repeat: no-repeat;
   color: ivory;
 }
 a{
@@ -9,4 +11,11 @@ a{
 }
 address{
   text-align: right;
+}
+
+#email{
+  font-size: 1.5em;
+  position: fixed;
+  left: 80vw;
+  top: 96vh;
 }
